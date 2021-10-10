@@ -1,0 +1,18 @@
+{
+	"name": "LaTeX env",
+	"extensions": [
+		"james-yu.latex-workshop",
+		"streetsidesoftware.code-spell-checker",
+		"streetsidesoftware.code-spell-checker-spanish",
+	],
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": {
+			"VARIANT": "focal"
+		}
+	},
+	"settings": {
+		"remote.restoreForwardedPorts": false
+	},
+	"containerUser": "vscode"
+}

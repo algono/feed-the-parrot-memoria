@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"latex-workshop.latex.outDir": "./out",
+		"latex-workshop.view.pdf.viewer": "tab",
+		"latex-workshop.synctex.afterBuild.enabled": true
+	},
+	"extensions": {
+		"recommendations": [
+			"james-yu.latex-workshop",
+			"streetsidesoftware.code-spell-checker",
+			"streetsidesoftware.code-spell-checker-spanish"
+		],
+		"unwantedRecommendations": [
+			"ms-vscode-remote.remote-containers"
+		]
+	}
+}

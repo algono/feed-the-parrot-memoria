@@ -1,0 +1,46 @@
+{
+  "latex-workshop.latex.outDir": "./out",
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.synctex.afterBuild.enabled": true,
+  "cSpell.language": "en,es",
+  "cSpell.maxNumberOfProblems": 1000,
+  "cSpell.words": [
+    "Alexa",
+    "CLI",
+    "TFG",
+    "autenticación",
+    "briefers",
+    "domótica",
+    "enrutar",
+    "finalización",
+    "globalización",
+    "ideación",
+    "inicialización",
+    "mantenibilidad",
+    "metadatos",
+    "portabilidad",
+    "serialización",
+    "sincronización",
+    "subcarpeta",
+    "subsistema",
+    "subsistemas",
+    "transpilador"
+  ],
+  "cSpell.minWordLength": 1,
+  "cSpell.ignorePaths": [
+    "**/package-lock.json",
+    "**/node_modules/**",
+    "**/vscode-extension/**",
+    "**/.git/objects/**",
+    ".vscode",
+    ".vscode-insiders",
+    ".devcontainer*",
+    "out"
+  ],
+  "files.exclude": {
+    "baseportada*": true,
+    "logo-etsinf*": true,
+    "logo-upv*": true,
+    "tfgetsinf.cls": true
+  },
+}
